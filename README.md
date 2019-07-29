@@ -1,2 +1,3 @@
-# swift_programming
-Swift Programs
+# Swift Programs
+
+Casual programming. Just learning. 
